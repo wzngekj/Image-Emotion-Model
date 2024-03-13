@@ -18,9 +18,9 @@ Remarkable efficiency at 87.5%
 6. `matplotlib`
 ## DEPLOYMENT
 ### EMOTIONS.PY
-1. ``` git clone https://github.com/wzngekj/Image-Emotion-Model.git ```
-2. cd IEM
-3. pip install tensorflow numpy matplotlib scikit-learn keras
+1. ``` python git clone https://github.com/wzngekj/Image-Emotion-Model.git ```
+3. cd IEM
+4. pip install tensorflow numpy matplotlib scikit-learn keras
 ### DATASET
 1. Download the dataset ```https://www.kaggle.com/datasets/shuvoalok/ck-dataset/code``` from kaggle
 2. Extract the dataset
