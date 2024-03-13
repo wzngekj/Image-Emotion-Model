@@ -1,6 +1,6 @@
 # IMAGE EMOTION RECOGNISER NEURAL NETWORK MODEL
 ## INTRODUCTION
-Built with a pre-trained VGG16 model, the model is further enhanced to classify and predict 1 of 6 emotions: `Anger, Contempt, Disgust, Fear, Happy, Sad, Surprise` to successfully detect emotions on novel images of facial expressions
+Built with a pre-trained VGG16 model, the model is further enhanced to classify and predict 1 of 7 emotions: `Anger, Contempt, Disgust, Fear, Happy, Sad, Surprise` to successfully detect emotions on novel images of facial expressions
 ## SUCCESS RATE
 Remarkable efficiency at 87.5%
 ## DATA SOURCE
