@@ -24,7 +24,7 @@ Remarkable efficiency at 87.5%
 3. cd IEM
 4. pip install tensorflow numpy matplotlib scikit-learn keras
 ### DATASET
-1. Download the dataset ```https://www.kaggle.com/datasets/shuvoalok/ck-dataset/code``` from kaggle
+1. Download the dataset https://www.kaggle.com/datasets/shuvoalok/ck-dataset/code from kaggle
 2. Extract the dataset
 3. Create a folder named ```data``` to contain all the 7 folders of distinct emotions downloaded
 4. Move the `data` folder into the `IEM` folder which contains `emotions.py`
