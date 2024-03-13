@@ -18,7 +18,11 @@ Remarkable efficiency at 87.5%
 6. `matplotlib`
 ## DEPLOYMENT
 ### EMOTIONS.PY
-```git clone https://github.com/wzngekj/Image-Emotion-Model.git
+```git clone https://github.com/wzngekj/Image-Emotion-Model.git```
 cd IEM
 pip install tensorflow numpy matplotlib scikit-learn keras
 ### DATASET
+1. Download the dataset ```https://www.kaggle.com/datasets/shuvoalok/ck-dataset/code``` from kaggle
+2. Extract the dataset
+3. Create a folder named ```data``` to contain all the 7 folders of distinct emotions downloaded
+4. Move the `data` folder into the `IEM` folder which contains `emotions.py`
