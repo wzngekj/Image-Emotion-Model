@@ -18,7 +18,9 @@ Remarkable efficiency at 87.5%
 6. `matplotlib`
 ## DEPLOYMENT
 ### EMOTIONS.PY
-1. ``` python git clone https://github.com/wzngekj/Image-Emotion-Model.git ```
+1. ```python
+    git clone https://github.com/wzngekj/Image-Emotion-Model.git
+   ```
 3. cd IEM
 4. pip install tensorflow numpy matplotlib scikit-learn keras
 ### DATASET
