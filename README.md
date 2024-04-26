@@ -26,5 +26,5 @@ Built with a pre-trained VGG16 model, the model is further enhanced to classify 
 ### DATASET
 1. Download the dataset https://www.kaggle.com/datasets/shuvoalok/ck-dataset/code from kaggle
 2. Extract the dataset
-3. Create a folder named ```data``` to contain all the 7 folders of distinct emotions downloaded
+3. Create a folder named ```data``` to contain all the 7 folders of distinct emotions
 4. Move the `data` folder into the `IEM` folder which contains `emotions.py`
