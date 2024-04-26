@@ -2,7 +2,7 @@
 ## INTRODUCTION
 Built with a pre-trained VGG16 model, the model is further enhanced to classify and predict 1 of 7 emotions: `Anger, Contempt, Disgust, Fear, Happy, Sad, Surprise` to successfully detect emotions on novel images of facial expressions
 ## SUCCESS RATE
-Remarkable efficiency at 87.5%
+87.5% accuracy rate
 ## DATA SOURCE
 `Extended Cohn-Kanade (CK+)` dataset folder contains a rich diversity of images with distinct emotions ranging from `Anger, Contempt, Disgust, Fear, Happy, Sad, Surprise`. Each of these distinct images are classified in their respective folders to ensure proper labelling enabling successful and accurate training and evaluation of the `IEM (Image-Emotion-Model)`
 ## KEY ELEMENTS
